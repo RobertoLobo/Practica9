@@ -1,0 +1,24 @@
+# ninja log v5
+3	547	736810770	Practica9_autogen/timestamp	688168fb6413cdf5
+554	5382	736810775	CMakeFiles/Practica9.dir/main.cpp.obj	f7adf8015133a68
+548	5385	736810775	CMakeFiles/Practica9.dir/Practica9_autogen/mocs_compilation.cpp.obj	cb07f5b9e4180e47
+560	7302	736810777	CMakeFiles/Practica9.dir/mainwindow.cpp.obj	36d22048302d89fb
+7303	8178	736810778	Practica9.exe	1b742d65184fd78e
+55	2576	736812592	Practica9_autogen/timestamp	688168fb6413cdf5
+2576	17049	736812607	CMakeFiles/Practica9.dir/Practica9_autogen/mocs_compilation.cpp.obj	cb07f5b9e4180e47
+2588	21093	736812611	CMakeFiles/Practica9.dir/mainwindow.cpp.obj	36d22048302d89fb
+21094	22593	736812612	Practica9.exe	1b742d65184fd78e
+59	12961	736813009	CMakeFiles/Practica9.dir/mainwindow.cpp.obj	36d22048302d89fb
+12962	13723	736813009	Practica9.exe	1b742d65184fd78e
+11	13676	736813114	CMakeFiles/Practica9.dir/mainwindow.cpp.obj	36d22048302d89fb
+13677	14383	736813114	Practica9.exe	1b742d65184fd78e
+9	11661	736813246	CMakeFiles/Practica9.dir/mainwindow.cpp.obj	36d22048302d89fb
+11662	12337	736813247	Practica9.exe	1b742d65184fd78e
+13	15699	736813546	Practica9_autogen/timestamp	688168fb6413cdf5
+15700	24125	736813554	CMakeFiles/Practica9.dir/Practica9_autogen/mocs_compilation.cpp.obj	cb07f5b9e4180e47
+15711	27959	736813558	CMakeFiles/Practica9.dir/mainwindow.cpp.obj	36d22048302d89fb
+27960	28995	736813559	Practica9.exe	1b742d65184fd78e
+68	2416	736814202	Practica9_autogen/timestamp	688168fb6413cdf5
+2418	26477	736814226	CMakeFiles/Practica9.dir/Practica9_autogen/mocs_compilation.cpp.obj	cb07f5b9e4180e47
+2430	32897	736814233	CMakeFiles/Practica9.dir/mainwindow.cpp.obj	36d22048302d89fb
+32898	34781	736814234	Practica9.exe	1b742d65184fd78e
